@@ -58,7 +58,7 @@ social-network-links:
   # facebook: deanattali
   github: smygdalas
   ORCID: 0009-0005-3963-7054
-  # inspire: 
+  inspire: authors/3092406
   # twitter: daattali
   # patreon: DeanAttali
   # youtube: c/daattali
@@ -152,8 +152,8 @@ footer-hover-col: "#0085A1"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-navbar-img: "/assets/img/penrosetile.png"
-footer-img: "/assets/img/penrosetile.png"
+navbar-img: "/assets/img/ABTilingBlueOrangeSquarePatch.pdf"
+footer-img: "/assets/img/ABTilingBlueOrangeSquarePatch"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
