@@ -24,6 +24,8 @@ author: Sotiris Mygdalas
 
 navbar-links:
   Research: "research"
+  Publications: "publications"
+  Talks: "talks"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
