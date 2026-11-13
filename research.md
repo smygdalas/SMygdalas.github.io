@@ -3,4 +3,10 @@ layout: page
 title: Research
 ---
 
-My publications can be found here on [iNSPIRE HEP](https://inspirehep.net/authors/3092406).
+# Spacetime Quasicrystals 
+
+## Quantum Gravity
+
+# Computational Complexity Theory 
+
+# The Mathematical Structure of the Standard Model of Particle Physics
