@@ -5,6 +5,8 @@ title: Research
 
 # Spacetime Quasicrystals 
 
+![](/assets/img/MeOnPenroseTiling.jpg)
+
 ## Quantum Gravity
 
 # Computational Complexity Theory 
