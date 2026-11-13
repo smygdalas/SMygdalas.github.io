@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Sotiris Mygdalas -- Home
+title: Sotiris Mygdalas
 subtitle: Research Assistant at Perimeter Institute
 use-site-title: true
 ---
