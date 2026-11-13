@@ -16,11 +16,21 @@ My name is Sotiris Mygdalas\* (he/him) and I am currently a research assistant -
 
 # Research Interests
 
-My research is at the intersection of 
+My research is at the intersection of pure mathematics and theoretical physics; in short, I am a mathematical physicist. 
 
-## Spacetime Quasicrystals in Quantum Gravity
 
-## Computational Complexity Theory and its Interplay with Gravity    
+[My research leverages elegant algebraic and geometric structures to address fundamental questions in physics, 
 
-## The Mathematical Structure of the Standard Model of Particle Physics
+as I believe that combining the "concreteness" of geometry with the "abstraction" of algebra leads to deeper insights. My work spans pure mathematics, quantum gravity, particle physics and cosmology, seeking interdisciplinary connections and hidden patterns between seemingly unrelated concepts. Two research fronts fascinate me most: (1) *gravity*, with *geometry* at its core, and (2) the *Standard Model (SM) of particle physics*, governed by *gauge symmetries* encoded in *algebras*. Their intersection -- the gauge/gravity unification -- is a guiding thread behind much of my current work.
+
+
+-- Quasicrystals, Discrete Lorentzian Geometry and Quantum Gravity
+
+-- Computational Complexity Theory and its Interplay with Gravity    
+
+-- The Mathematical Structure of the Standard Model of Particle Physics]: #
+
+# Outside of Research
+
+I enjoy cooking, baking (I am a proud father of a 201-year old sourdough starter; this has *not* been confirmed with carbon dating or DNA testing, but I choose to believe it is true), hiking, running (especially away from my problems), photography and playing tennis.
 
