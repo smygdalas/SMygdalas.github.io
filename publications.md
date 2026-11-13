@@ -1,13 +1,20 @@
 ## Publications
 
+My publications can also be found on [iNSPIRE HEP](https://inspirehep.net/authors/3092406), on [Google Scholar](https://scholar.google.com/citations?user=pkDLQwIAAAAJ&hl=en), or on the [arXiv](https://arxiv.org/search/hep-th?searchtype=author&query=Mygdalas%2C+S). 
+
 *Author order in my field is alphabetical.*
 
 1. **Spacetime Quasicrystals**  
    Latham Boyle and **Sotirios Mygdalas**  
-   [arXiv:2601.07769](https://arxiv.org/abs/2601.07769), January 2026 (under review at *Physical Review Research*)  
-   Featured on [ScienceNews](https://www.sciencenews.org/article/spacetime-quasicrystals-universe), [YouTube](https://www.youtube.com/watch?v=0azOaCJaYGo), [Spektrum](https://www.spektrum.de/news/aperiodische-muster-ist-das-universum-ein-quasikristall/2322914) (in German) and soon on [Wolfram's Staff Picks](https://community.wolfram.com/content?curTag=staff%20picks)
+   [arXiv:2601.07769](https://arxiv.org/abs/2601.07769), January 2026 (under review at *Physical Review Research*)
+     
+   Featured on
+   [ScienceNews](https://www.sciencenews.org/article/spacetime-quasicrystals-universe),
+   [YouTube](https://www.youtube.com/watch?v=0azOaCJaYGo),
+   [Spektrum](https://www.spektrum.de/news/aperiodische-muster-ist-das-universum-ein-quasikristall/2322914) (in German)
+   and soon on [Wolfram's Staff Picks](https://community.wolfram.com/content?curTag=staff%20picks).
 
-2. **Semiclassical Gravity Efficiently Solves NP-Complete Problems**  
+3. **Semiclassical Gravity Efficiently Solves NP-Complete Problems**  
    Matthew Fox, Chaitanya Karamchedu and **Sotirios Mygdalas**  
    [arXiv:2606.14806](https://arxiv.org/abs/2606.14806), June 2026 (under review at *Physical Review Letters*)
 
